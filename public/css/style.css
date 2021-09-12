@@ -1,0 +1,33 @@
+body{
+    background: #150c45;
+    color: palegreen;
+}
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+.fa-reddit{
+    color: orangered;
+}
+a{
+    font-size: 40px;
+    color:  palegreen;
+}
+.small{
+    width: 10%;
+    height: 40px;
+}
+.medium{
+    width: 27%;
+    height: 45px;
+}
+.btn{
+    background-color: orangered;
+    color: white;
+    border: 3px solid palegreen;
+}
+.btn:hover{
+    background-color: palegreen;
+    border: 5px solid orangered;
+    color: darkslategray;
+}
